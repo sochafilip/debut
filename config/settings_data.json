@@ -8,7 +8,7 @@
     "color_text_field_text": "#333333",
     "color_text_field": "#fafafa",
     "color_image_overlay": "#000000",
-    "image_overlay_opacity": 60,
+    "image_overlay_opacity": 50,
     "color_borders": "#dddddd",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
