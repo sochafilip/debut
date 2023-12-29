@@ -7,7 +7,8 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo_max_width": 50,
+          "logo": "shopify:\/\/shop_images\/logo-no-background.svg",
+          "logo_max_width": 100,
           "main_linklist": "main-menu",
           "message": true,
           "home_page_only": true,
