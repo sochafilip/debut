@@ -3,12 +3,13 @@
     "hero-1": {
       "type": "hero",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Header.png",
         "alignment": "center",
         "hero_layout": "full_width",
         "hero_size": "large",
         "text_size": "large",
-        "title": "Image with text overlay",
-        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "title": "Redefine Your Style with Zestora",
+        "text": "<p>Where Fashion Meets Imagination.<\/p>",
         "button_label": "",
         "button_link": ""
       }
