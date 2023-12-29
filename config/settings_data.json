@@ -1,7 +1,22 @@
 {
   "current": {
+    "color_text": "#333333",
+    "color_body_text": "#4a4a4a",
+    "color_sale_text": "#e63946",
+    "color_button": "#007bff",
+    "color_small_button_text_border": "#cccccc",
+    "color_text_field_text": "#333333",
+    "color_text_field": "#fafafa",
+    "color_image_overlay": "#000000",
+    "image_overlay_opacity": 60,
+    "color_borders": "#dddddd",
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
     "social_twitter_link": "https:\/\/twitter.com\/ZestoraUK",
     "social_instagram_link": "https:\/\/www.instagram.com\/zestorauk\/",
+    "favicon": "shopify:\/\/shop_images\/logo.png",
+    "checkout_input_background_color_mode": "white",
     "sections": {
       "header": {
         "type": "header",
