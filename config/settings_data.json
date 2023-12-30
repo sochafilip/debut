@@ -20,6 +20,7 @@
     "social_twitter_link": "https:\/\/twitter.com\/ZestoraUK",
     "social_instagram_link": "https:\/\/www.instagram.com\/zestorauk\/",
     "favicon": "shopify:\/\/shop_images\/logo.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo-no-background.svg",
     "checkout_input_background_color_mode": "white",
     "sections": {
       "header": {
